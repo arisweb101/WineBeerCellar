@@ -15,3 +15,9 @@ export default {
   },
 }
 </script>
+
+<style scoped lang="scss">
+.home {
+  width:100%;
+}
+</style>

@@ -98,13 +98,15 @@ table {
   border-collapse: collapse;
   border: 3px solid #44475C;
   margin: 20px auto;
+  max-width:1120px;
+  overflow: hidden;
+  overflow-x: scroll;
   th {
     text-transform: uppercase;
     text-align: left;
     background: #44475C;
     color: #FFF;
     cursor: pointer;
-    padding: 8px;
     min-width: 30px;
     &:hover {
         background: #717699;
@@ -147,5 +149,18 @@ table {
     text-align:center;
     color:#fff;
   }
+  
+}
+@media only screen and (max-width: 767px) {
+   table {
+     width:100%;
+     display:block;
+   }
+   .searchForm {
+     width:100%;
+     .search {
+       width:100%;
+     }
+   }
 }
 </style>

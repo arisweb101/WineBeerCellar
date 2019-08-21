@@ -28,3 +28,23 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Additional Recources
+PUG
+VueBootstrap(Modal)
+SCSS
+Media
+
+## Additional Information
+Simple Login Page Access
+ - username: aris
+ - password: password
+
+Pure Html Table Listing
+Sorting from all the Table Category
+API: https://api.openbrewerydb.org/breweries
+Uses "Event Bus" for sharing data for Modal
+Has "Add" functionality on the code but it doesnt exist on the API
+Search Filter
+ 
+
