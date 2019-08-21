@@ -22,6 +22,7 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+Can access through "localhost" + /dist/index.html
 ```
 
 ### Run your tests
