@@ -40,10 +40,12 @@ Simple Login Page Access
  - username: aris
  - password: password
 
+## All Features
 Pure Html Table Listing
+
 Sorting from all the Table Category
 API: https://api.openbrewerydb.org/breweries
-Uses "Event Bus" for sharing data for Modal
+Uses "Event Bus" for sharing data for Moda
 Has "Add" functionality on the code but it doesnt exist on the API
 Search Filter
  
