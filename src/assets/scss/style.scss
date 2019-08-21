@@ -1,0 +1,43 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+
+html, body {
+  padding:0;
+  margin: 0;
+  border: 0;
+  height:100%;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+img {
+  border:none;
+  outline:none;
+}
+button {
+  border:none;
+  outline:none;
+  cursor: pointer;
+}
+a {
+  cursor: pointer;
+}
+input {
+  outline:none;
+}
+.container {
+  width:80%;
+  margin:0 auto;
+}

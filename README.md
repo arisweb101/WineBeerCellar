@@ -1,4 +1,5 @@
 # wine_beer_cellar
+ a Family of Brick & Mortar Craft Beer Retail Stores. Beer Geeks Welcome! Amazing Beer, Hospitality, Education.
 
 ## Project setup
 ```
