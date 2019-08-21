@@ -48,12 +48,14 @@ Pure Html Table Listing
 
 Sorting from all the Table Category
 
+Search Filter
+
 API: https://api.openbrewerydb.org/breweries
 
-Uses "Event Bus" for sharing data for Moda
+Uses "Event Bus" for sharing data for Modal
 
 Has "Add" functionality on the code but it doesnt exist on the API
 
-Search Filter
+Mobile Responsive
  
 
