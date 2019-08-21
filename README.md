@@ -1,6 +1,14 @@
 # wine_beer_cellar
  a Family of Brick & Mortar Craft Beer Retail Stores. Beer Geeks Welcome! Amazing Beer, Hospitality, Education.
 
+## ACCESS
+Page #1 /
+Simple Login Page Access
+ - username: aris
+ - password: password
+
+Page #2 /winebeer (Table Listing)
+
 ## Project setup
 ```
 npm install
@@ -34,11 +42,6 @@ PUG
 VueBootstrap(Modal)
 SCSS
 Media
-
-## Additional Information
-Simple Login Page Access
- - username: aris
- - password: password
 
 ## All Features
 Pure Html Table Listing
